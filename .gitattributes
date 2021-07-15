@@ -1,3 +1,5 @@
+# Replaca stats from the '.html' and '.ipynb' to Python
+
 *.html linguist-language=Python
 
 *.ipynb linguist-language=Python
