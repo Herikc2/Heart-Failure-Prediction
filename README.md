@@ -13,3 +13,8 @@ O objetivo desse projeto é a previsão se o paciente irá ser levado a uma falh
   Também foi escolhido que iremos priorizar que o algoritmo acerte quem irá MORRER. Dessa forma poderia ser iniciado um tratamento para o paciente antecipadamente.
 
 Dataset: https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
+
+Orientações:
+
+- Dentro da pasta docs esta localizado o notebook utilizado durante o projeto, juntamente com a sua versão convertido para .html .
+- O script .py na raiz do projeto é uma conversão direta do notebook utilizado, sendo assim é sugerido a utilização do notebook na pasta docs.
